@@ -167,6 +167,10 @@ h3 {
     line-height: 40px;
 }
 
+#para-2 {
+    line-height: 30px;
+}
+
 .image {
     align-items: center;
     position: absolute;
